@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Eklavya-MachineWise
+- 👋 Hi, I’m Eklavya Ghodake
 - 👀 I’m interested solving problems
-- 🌱 I’m currently learning fullstack devlopment
+- 🌱 I’m software dev
 
 <!---
 Eklavya-MachineWise/Eklavya-MachineWise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
